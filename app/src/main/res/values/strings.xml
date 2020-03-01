@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mybus</string>
+    <string name="notification_text">Suivie, taper pour annuler</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">Emplacements</string>
+    <string name="firebase_email" translatable="false">test@exemple.com</string>
+    <string name="firebase_password" translatable="false">Mot de passe</string>
+    <string name="title_activity_login">Se connecter</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Adresse mail</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_sign_in_short">Se connecter</string>
+    <string name="error_invalid_email">Cette adresse mail est invalide</string>
+    <string name="error_invalid_password">Ce mot de passe est très court</string>
+    <string name="error_incorrect_password">Ce mot de passe est incorrecte</string>
+    <string name="error_field_required">Ce champs est nécessaire</string>
+    <string name="permission_rationale">"Les autorisations de contacts sont nécessaires pour fournir l'accomplissement du e-mail."
+    </string>
+
+    <!-- Strings related to login -->
+<string name="logout">déconnexion</string>
+</resources>
